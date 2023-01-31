@@ -25,7 +25,7 @@ The table will be displayed with 15 user records that are requested by a "get" s
 ## DataTable
 The "Table" folder has a folder called "constant" and a file "table.jsx" The "constant" module has the headers of the tables which will display the specified data In the "table.jsx" file the data will be displayed are requested from the variable "data"
 
-## Data Table Download
+## Data Table: Button Download - Button refresh
 There are 2 buttons:\
 1.- "Download list of users": it will download the 15 requested users which are shown in the table either "ascending",    "descending" or "random"\
 2.- "Update data": This button helps to update the table data just by clicking on said button, which avoids the need to    refresh the page by hitting enter from the same url browser.
