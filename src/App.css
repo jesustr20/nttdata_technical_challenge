@@ -1,5 +1,11 @@
-.App {
+.App {  
   text-align: center;
+  max-width: 90%;
+  min-width: 10px;
+  margin: auto;
+  height: 100%;
+  background: rgb(0,27,36);
+  background: linear-gradient(90deg, rgba(0,27,36,0.9640231092436975) 0%, rgba(19,80,113,0.9220063025210083) 35%, rgba(0,236,255,1) 100%);
 }
 
 .App-logo {
