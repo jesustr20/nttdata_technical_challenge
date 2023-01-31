@@ -58,6 +58,7 @@ return(
         }else if(newSort === 'descend'){
           return b.dob.age - a.dob.age
         }
+        return a.dob.age - b.dob.age
       })
       }/>
     </Button>
