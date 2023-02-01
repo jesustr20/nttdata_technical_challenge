@@ -32,6 +32,6 @@ There are 2 buttons:\
 
 ## Probar la aplicacion:
 Para probar la aplicacion pueden acceder desde este enlace:\
-https://nttdata-jarvissac.netlify.app/\
+https://nttdata-jarvissac.netlify.app/
 
 Deployado usando Netlify: https://app.netlify.com/
