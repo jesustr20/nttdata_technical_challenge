@@ -29,3 +29,9 @@ The "Table" folder has a folder called "constant" and a file "table.jsx" The "co
 There are 2 buttons:\
 1.- "Descargar lista de usuarios": it will download the 15 requested users which are shown in the table either "ascending", "descending" or "random"\
 2.- "Actualizar data": This button helps to update the table data just by clicking on said button, which avoids the need to refresh the page by hitting enter from the same url browser.
+
+## Probar la aplicacion:
+Para probar la aplicacion pueden acceder desde este enlace:\
+https://nttdata-jarvissac.netlify.app/\
+
+Deployado usando Netlify [https://app.netlify.com/]
