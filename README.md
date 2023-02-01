@@ -34,4 +34,4 @@ There are 2 buttons:\
 Para probar la aplicacion pueden acceder desde este enlace:\
 https://nttdata-jarvissac.netlify.app/\
 
-Deployado usando Netlify: (https://app.netlify.com/)
+Deployado usando Netlify: https://app.netlify.com/
